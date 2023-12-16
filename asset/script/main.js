@@ -12,7 +12,7 @@ function closeSidebar() {
 }
 
 function visitWebButton() {
-   window.location.href = '/#/Download.html';
+   window.location.href = 'dimz-craft.github.io/web-download/main.html';
 }
 
 function dcServerButton() {
